@@ -1,0 +1,1 @@
+[[Temporarily save it in the panel box, and if the chat is deleted, the boxes wil be deleted too.]]

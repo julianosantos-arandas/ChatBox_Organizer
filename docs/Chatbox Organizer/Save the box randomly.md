@@ -1,0 +1,1 @@
+When the user saves a box randomly, it will appear in the area where the are stored, but without any specifc organization - only stored by creation date. 
