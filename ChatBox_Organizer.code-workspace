@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "src"
+		},
+		{
+			"path": "docs/Chatbox Organizer"
+		},
+		{
+			"path": "data"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.obsidian": true,
+			"**/__pycache__": true,
+			"/.git": true
+		},
+		"editor.wordWrap": "on",
+		"[python]":{
+			"editor.formatOnSave": true
+		}
+	},
+	"extensions": {
+		"recommendations": [
+		   "ms-python.python",
+           "ms-toolsai.jupyter",
+           "yzhang.markdown-all-in-one",
+           "shd101wyy.markdown-preview-enhanced"]
+	}
+}
