@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7fec2b7d1361df61",
+            "id": "9a42e63fb9292c92",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -162,12 +162,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "7fec2b7d1361df61",
+  "active": "9a42e63fb9292c92",
   "lastOpenFiles": [
+    "Functionalty.md",
+    "Chatbox Organizer.md",
     "Save the box randomly.md",
     "Select to save.md",
-    "Chatbox Organizer.md",
-    "Functionalty.md",
     "Temporarily save it in the panel box, and if the chat is deleted, the boxes wil be deleted too..md",
     "User Question.md",
     "Save.md",
